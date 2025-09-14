@@ -1,5 +1,5 @@
 # Multimodal-Emotion-Recognition
-Multimodal emtion recognition with cross attention transformers
+Multimodal emotion recognition with cross attention transformers
 <br>
 Author - Gurram Jahnavi 
 <br>
